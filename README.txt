@@ -1,6 +1,6 @@
 WEBSITE ULANG TAHUN DIAH — PANDUAN PEMULA
 
-1. Buka folder project ini di Visual Studio Code.
+1. Buka folder project ini di Visual Studio Code .
 2. Buka index.html di browser untuk melihat website.
    Cara paling nyaman: install extension "Live Server" di VS Code,
    klik kanan index.html, lalu pilih "Open with Live Server".
